@@ -1,5 +1,5 @@
 # Nancy Rojas
-> Bachelor in Graphic Design @ Cetys University | Ensenada, MX (2012)
+> Bachelor in Graphic Design @ CETYS University Ensenada (2012)
 
 After years of creating illustrations and marketing designs, I decided to move into Web Design focusing on clear layouts and mockups for my clients all over the world. Currently, I'm doing two certifications on Coursera: IBM UI/UX Designer and IBM Full Stack Software Developer to improve and complement my skills as a Web Designer.
 
