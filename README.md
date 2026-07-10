@@ -1,5 +1,4 @@
 # Nancy Rojas
-> Bachelor in Graphic Design @ CETYS University Ensenada (2012)
 
 After years of creating illustrations and marketing designs, I decided to move into Web Design focusing on clear layouts and mockups for my clients all over the world. Currently, I'm doing two certifications on Coursera: IBM UI/UX Designer and IBM Full Stack Software Developer to improve and complement my skills as a Web Designer.
 
@@ -26,3 +25,8 @@ After years of creating illustrations and marketing designs, I decided to move i
 ## ⚙️ Gear
 ![image](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
 
+## 🎓 Education 
+> Bachelor in Graphic Design @ CETYS University Ensenada (2012)
+
+## 📜 Certifications
+> Applied Software Engineering Fundamentals Specialization @ IBM Skills Network (2026) ID: D3URTPRNX1JB
