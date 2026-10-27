@@ -1,6 +1,6 @@
 # Nancy Rojas
 
-Graphic Designer | Enthusiast About Data Analytics and Data Integrity.
+Graphic Designer | Enthusiast About Data Analytics and Data Integrity
 
 ## 🚀 Skills 
 
