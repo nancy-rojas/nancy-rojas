@@ -1,6 +1,6 @@
 # Nancy Rojas
 
-After years of creating illustrations and marketing designs, I decided to move into Web Design focusing on clear layouts and mockups for my clients all over the world. Currently, I'm doing two certifications on Coursera: IBM UI/UX Designer and IBM Full Stack Software Developer to improve and complement my skills as a Web Designer.
+Graphic Designer | Enthusiast About Data Analytics and Data Integrity.
 
 ## 🚀 Skills 
 
